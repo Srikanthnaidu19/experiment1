@@ -1,2 +1,1 @@
-"Project notes" 
-"// bug fix text" 
+"Conflicting change in bug-fix" 
