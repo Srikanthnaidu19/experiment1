@@ -1,2 +1,2 @@
-Project notes
-Conflicting change in feature-update
+Update notes.txt before merging bug-fix
+Conflicting change in bug-fix
