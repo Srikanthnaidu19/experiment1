@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Project notes
+=======
 Conflicting change in feature-update
+>>>>>>> feature-update
