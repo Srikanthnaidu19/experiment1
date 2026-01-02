@@ -1,2 +1,2 @@
-"Project notes" 
-"// bug fix text" 
+Project notes
+Conflicting change in feature-update
